@@ -1,0 +1,8 @@
+a.out
+*.csv
+*.pdf
+*.txt
+.DS_Store
+CAT-1.md
+PPS
+PAT
