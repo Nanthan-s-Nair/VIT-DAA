@@ -15,18 +15,19 @@ Given a sequence of n letters from English alphabet (only lower case) where all 
 
 - Example:
     - Input:
-        ``` 5
-            t
-            h
-            e
-            r
-            e
+        ``` 
+        5
+        t
+        h
+        e
+        r
+        e
         ```
     - Output:
         ```    
-            e
-            e
-            h
-            t
-            r
+        e
+        e
+        h
+        t
+        r
         ```
